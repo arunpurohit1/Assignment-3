@@ -1,0 +1,66 @@
+body{
+
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    background-color: black; 
+
+
+}
+
+
+.data {
+
+    text-align: center;
+    background-color: wheat;
+    padding-bottom: 1em;
+
+}
+
+#log{
+
+   font-size: 30px;
+   text-decoration: none;
+   border: 8px solid blue;
+   border-radius: 30px;
+   color: white;
+   background-color: blue;
+   
+
+}
+
+#sign{
+
+    font-size: 28px;
+    text-decoration: none;
+    border: 8px solid blue;
+    border-radius: 30px;
+    color: white;
+    background-color: blue;
+}
+
+
+#em  , #pass , #nam{
+
+     font-size: 20px;
+     font-weight: bold;
+
+}
+
+#ema , #pas , #nm{
+
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 30px;
+}
+
+
+#btn {
+
+    font-size: 20px;
+    background-color: navy;
+    color: aquamarine;
+     border-radius: 30px;
+
+}
